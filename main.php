@@ -1,16 +1,12 @@
-
-
-
-
-
 <?php
 /*
-Plugin Name: CRUD Operations
-Plugin URI: https://www.davidangulo.xyz/wp/portfolio/
-Description: A simple plugin that allows you to perform Create (INSERT), Read (SELECT), Update and Delete operations.
-Version: 1.0.0
-Author: David Angulo
-Author URI: https://www.davidangulo.xyz/wp/
+Plugin Name: WooCommerce CRUD
+Plugin URI: https://github.com
+Description: Perform CRUD operations on WooCommerce orders programatically.
+Version: 0.0.1
+Author: Monte Logic 
+Author URI: https://github.com
+~
 License: GPL2
 */
 
